@@ -9,7 +9,7 @@ This page is a work in progress so expect (radical) changes / additions from tim
 ## Topics 
 
 ### Introduction
-- History 
+- [History](./history/HISTORY.md) 
 - Hardware
 - Software     
 - Internet
