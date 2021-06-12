@@ -8,7 +8,7 @@
 
 ## PC Overview
 
-![PC Overview](./images/overview_cc.jpg)
+![PC Overview](./images/overview_cc.png)
 
 1. Scanner
 2. CPU
