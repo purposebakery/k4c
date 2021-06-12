@@ -3,12 +3,16 @@
 ## Cateories
 
 - **Computer**: Parts that make the machine itself. Those are needed to make it work.
+   - **Power**: Powers the computer with electricity
+   - **Process**: Process information
+   - **Storage**: Store information
+   - **Connect**: Connect our parts
 - **Input**: Parts used to put information into the computer. Human -> Computer 
 - **Output**: Parts used to move information out of computer. Computer -> Human
 
-## PC Overview
+## Desktop PC Overview
 
-![PC Overview](./images/overview_cc.png)
+![Desktop PC Overview](./images/overview_cc.png)
 
 1. Scanner
 2. CPU
