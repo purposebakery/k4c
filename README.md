@@ -10,7 +10,7 @@ This page is a work in progress so expect (radical) changes / additions from tim
 
 ### Introduction
 - [History](./history/HISTORY.md) 
-- Hardware
+- [Hardware](./hardware/HARDWARE.md)
 - Software     
 - Internet
    
