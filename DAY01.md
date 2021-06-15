@@ -65,11 +65,19 @@ Our goal is to learn something about computer, especially computer hardware.
 
 ## Day Summary
 
-(*5 min*)
+(*2 min*)
 
-- Foundation (3 rules)
 - Computer history (Once big, now small. Happened in a very short period.)
-- Computer hardware (computer (power, process, storage, connect), input, output)
+- Computer hardware (computer (power, process, storage, connect), input (touchscreen, keyboard, mouse, touchpad, microphone, camera, fingerprint scanner), output (screen, speaker))
+
+## Take home message
+
+(*2 min*)
+
+If you take one thing home from today it should be this:
+
+Computers and Coding isn't easy but don't EVER let ANYONE tell you that you're not smart enough for it. You need roughly 12 years of school to learn to generally navigate the world. I've been coding since 2004 (thats 17 years!) every day I make many mistakes (monkey developer story). Computers and coding is a journey. Very rewarding.   
+
 
 
 
