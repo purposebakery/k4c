@@ -35,9 +35,10 @@
 
 ![Smartphone Overview](./images/smartphone_cc.jpg)
 
-## Hands-On
+## Hands-on group activity
 
 Lets take appart a:
 - PC
 - Notebook
 - Smartphone
+- Harddrive
