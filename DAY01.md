@@ -14,7 +14,9 @@
 
 (Engage: Who knows and is able to explain what an "Ice breaker" is?)
 
-- Who was outside of New Zealand?
+(Engage: Icebreaker with cajón in middle?)
+
+- Who was born outside of New Zealand?
 - Who was born in New Zealand?
 - Who likes music?
 - Who has a pet animal?
@@ -22,6 +24,8 @@
 - Who has ever had an injury that required stiches?
 - Who has already been on a plane?
 - Who has a own smartphone or computer?
+
+(remove cajón)
 
 ## Rules
 
@@ -35,25 +39,29 @@
 2. **Our respect for one another is untouchable.** We don't laugh about questions (there is nothing like stupid questions there are only knowledge hungry people) / mistakes (he who makes mistakes isn't afraid to show weakness which makes him strong).
 3. **We push ourselves to do our very best.** Whatever we do. When things get hard we do not give up. (I prepare properly, even if I have little time. Only 10 more minutes and you're bored. You still try to pay attention. We try to let others go first.)
 
-Is that fail? Questions?
+Is that fair? Questions?
 
 I have a request: If I'm ever too fast or too slow please let me know.
 
 # Content
 
-## Plan
+## [Big Plan](./README.md)
+
+## Day Plan
 
 Our goal is to learn something about computer, especially computer hardware.
 
-1. A brief overview of computer history (*5 min*)
-2. A brief overview of computer hardware (*10 min*)
-3. We dismantle the PC and identify the parts (keep slide with overview open) (*10 min*)
-4. Hands-on group activity: 3 Groups. (*20 min*)
+1. (*5 min*) A brief overview of computer history 
+2. (*10 min*) A brief overview of computer hardware 
+3. (*10 min*) We dismantle the PC and identify the parts (keep slide with overview open) 
+4. (*20 min*) Hands-on group activity: 3 Groups. 
 	- dismantle the laptop without breaking it
 	- dismantle the smartphone without breaking it
 	- dismantle the harddrive without breaking it
-(remember: this is not a race. We want to learn as much as possible. Look, Talk, Descide, Execute) 
-5. We identify the parts of the laptop and smartphone (*5 min*)
+
+(remember: this is not a race. We want to learn as much as possible. Look, talk, decide, execute) 
+
+5. (*5 min*) We identify the parts of the laptop and smartphone 
 
 ## Day Summary
 
