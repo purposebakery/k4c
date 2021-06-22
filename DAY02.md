@@ -1,6 +1,10 @@
 # Prep
 
-- PC, Laptop
+- PC, Laptop, Smartphones
+- Work space covered
+- Cables and adapters
+- Solar panel
+- iPad
 
 # Get Started
 
@@ -16,11 +20,19 @@
 
 # Content
 
-## Day Plan
+## Main Stream
 
 1. [Recap Hardware](hardware/HARDWARE.md))
 
 2. [Setup a computer](setup/SETUP.md)
+
+## Coding Stream
+
+- Continue learning python
+- Think of an coding project. Consider:
+	- Type: Website, App, Game, Gadget, something else?
+	- Make it easy for the start. You can always expand on the idea
+	- Do frequent feedback loops with advisor
 
 ## Day Summary
 

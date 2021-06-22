@@ -19,6 +19,8 @@ This page is a work in progress so expect (radical) changes / additions from tim
 - Typing 
 - Word processing
 - Coding
+   - [Scratch](./coding/scratch/CODING_SCRATCH.md)
+   - [Python](./coding/python/CODING_PYTHON.md)
 
 ---
 
