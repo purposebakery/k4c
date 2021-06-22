@@ -14,14 +14,6 @@
 - Who has once done something that mom and dad did not like.
 - Who thinks this is the last question?
 
-## Rules / Foundation 
-
-1. **One person speaks at a time.** Unless we're in a group activity. We do not interrupt. We let everyone finish speaking their thought.
-
-2. **Respect for one another.** We don't laugh about questions (there is nothing like stupid questions there are only knowledge hungry people) / mistakes (he who makes mistakes isn't afraid to show weakness which makes him strong).
-
-3. **We push ourselves to do our very best.** Whatever we do. When things get hard we do not give up. (I prepare properly, even if I have little time. You still try to pay attention. We try to let others go first.)
-
 # Content
 
 ## Day Plan

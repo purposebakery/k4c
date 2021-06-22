@@ -11,13 +11,25 @@ This page is a work in progress so expect (radical) changes / additions from tim
 ### Introduction
 - [History](./history/HISTORY.md) 
 - [Hardware](./hardware/HARDWARE.md)
-- Software     
+- [Computer Setup](./setup/SETUP.md)
+- Software
 - Internet
    
 ### Advanced
 - Typing 
 - Word processing
 - Coding
+
+---
+
+
+## Rules / Foundation 
+
+1. **One person speaks at a time.** Unless we're in a group activity. We do not interrupt. We let everyone finish speaking their thought.
+
+2. **Respect for one another.** We don't laugh about questions. There is nothing like stupid questions there are only knowledge hungry people. We don't laugh about mistakes. He who makes mistakes goes to the limit which makes him strong.
+
+3. **We push ourselves to do our very best.** Whatever we do we try our best. When things get hard we do not give up. Learning is growth. Growth takes time and requires time and effort.  
 
 ---
 
