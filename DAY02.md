@@ -26,24 +26,14 @@
 
 ## Day Plan
 
-1. Recap [Hardware](hardware/HARDWARE.md))
+1. [Recap Hardware](hardware/HARDWARE.md))
 
-2. How to plug in a computer?
-
-(gain some confidence in plugging in and unplugging a computer)
-
-- Power (Laptop, PC, Macbook)
-- Video cable (HDMI, Display port)
-- USB (A, mini, micro, C)
-	- Keyboard
-	- Mouse
-- Audio jack (3.5mm, 6.35mm)
-- Network cable
-
-(cable management)
+2. [Setup a computer](setup/SETUP.md)
 
 ## Day Summary
 
-We learned how to plug in a computer
+- Cables are weird
+- We learned how to plug in a computer
+- Whats is currently the most important cable type (USB)
 
 
